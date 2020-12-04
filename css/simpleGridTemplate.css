@@ -90,6 +90,7 @@ header {
 .intro {
 	background-color: grey;
 	padding-bottom: 35px;
+	height: 100%; 
 }
 .column {
 	width: 50%;
@@ -167,7 +168,8 @@ footer {
 }
 .intro {
 	display: inline-block;
-	background-color:indianred;
+	
+	height: 100%; 
 }
 .profile {
 	width: 50%;
@@ -211,10 +213,8 @@ footer {
 	margin-top: 0px;
 }
 .hero_header {
-	padding-left: 10px;
-	padding-right: 10px;
-	line-height: 22px;
 	text-align: center;
+	padding-left: 10px;
 }
 }
 
